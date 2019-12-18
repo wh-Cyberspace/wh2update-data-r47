@@ -28,6 +28,6 @@ echo "${GREEN}[*]${YELLOW} YOU ARE USING LATEST VERSION : ${GREEN}V-2.0.1 .${RES
 echo ""
 echo ""
 
-echo "${YELLOW}[*] Prase Enter to Run WH2/(WH-HackerExploit v2) framework ${GREEN}V-2.0.1 .${RESTORE}"
+echo "${YELLOW}[*] Press enter to Run WH2/(WH-HackerExploit v2) framework ${GREEN}V-2.0.1 .${RESTORE}"
 read whenter
 bash $LPARTH/whe2
