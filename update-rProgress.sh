@@ -23,7 +23,7 @@ echo "${RESTORE}"
 
 sleep 1.5;
 
-echo "${YELLOW}[*] YOU ARE USING LATEST VERSION : ${GREEN}V-2.0.1 .${RESTORE}"
+echo "${GREEN}[*]${YELLOW} YOU ARE USING LATEST VERSION : ${GREEN}V-2.0.1 .${RESTORE}"
 
 echo ""
 echo ""
