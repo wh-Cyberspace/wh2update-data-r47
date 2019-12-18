@@ -1,10 +1,10 @@
 #!/bin/bash
 LPARTH=`pwd`
 
-echo "cd cmd"
+echo "cp cmd"
+cp $LPARTH/run $LPARTH/temp
 sleep 3.5;
-cd $LPARTH 
-cd ..
+
 echo "run"
 sleep 3.5;
-./run
+bash ./run
