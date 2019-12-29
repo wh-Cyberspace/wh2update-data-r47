@@ -50,6 +50,6 @@ mv $LPARTH/wh2update-data-r47/toolinfo $LPARTH/toolinfo
 
 
 
-echo "${YELLOW}[*] Press enter to Run WH2/(WH-HackerExploit v2) framework ${GREEN}V-2.0.1 .${RESTORE}"
+echo "${YELLOW}[*] Press enter to Run WH2/(WH-HackerExploit v2) framework ${GREEN}V-2.0.2 .${RESTORE}"
 read whenter
 bash $LPARTH/whe2
