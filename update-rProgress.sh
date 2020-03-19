@@ -23,7 +23,7 @@ echo "${RESTORE}"
 
 sleep 1.5;
 
-echo "${GREEN}[*]${YELLOW} Framwrok update available VERSION : ${GREEN}V-2.0.2 .${RESTORE}"
+echo "${GREEN}[*]${YELLOW} Framwrok update available VERSION : ${GREEN}V-2.2.1 .${RESTORE}"
 
 echo ""
 echo ""
@@ -33,14 +33,7 @@ echo ""
 
 #-----------------------------------------
 
-rm -rf $LPARTH/actions/ngwindows-ipia.sh
-rm -rf $LPARTH/actions/windows-ipia.sh
-rm -rf $LPARTH/toolinfo
-sleep 1;
-mv $LPARTH/wh2update-data-r47/ngwindows-ipia_up1.sh $LPARTH/actions/ngwindows-ipia.sh
-mv $LPARTH/wh2update-data-r47/windows-ipia_up1.sh $LPARTH/actions/windows-ipia.sh
-mv $LPARTH/wh2update-data-r47/toolinfo $LPARTH/toolinfo
-
+# C O R D H E A R
 #-----------------------------------------
 
 
@@ -50,6 +43,6 @@ mv $LPARTH/wh2update-data-r47/toolinfo $LPARTH/toolinfo
 
 
 
-echo "${YELLOW}[*] Press enter to Run WH2/(WH-HackerExploit v2) framework ${GREEN}V-2.0.2 .${RESTORE}"
+echo "${YELLOW}[*] Press enter to Run WH2/(WH-HackerExploit v2) framework ${GREEN}V-2.2.2 .${RESTORE}"
 read whenter
 bash $LPARTH/whe2
