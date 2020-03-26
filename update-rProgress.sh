@@ -26,7 +26,8 @@ sleep 1.5;
 echo "${GREEN}[*]${YELLOW} Framwrok update available VERSION : ${GREEN}V-2.2.1 .${RESTORE}"
 
 echo ""
-echo ""
+echo "UPDATE DONE"
+sleep 4;
 
 
 
